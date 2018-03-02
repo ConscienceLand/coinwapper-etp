@@ -6,7 +6,7 @@ This wrapper should provide an API to interact with the Metaverse Blockchain to 
 
 # API Entpoints
 ## Statement of transactions of address(es)
-/statement?address=ADDRESS1&address=ADDRESS2&min_height=100&max_height=1000
+/statement?address=MGqHvbaH9wzdr6oUDFz4S1HptjoKQcjRve&address=ADDRESS2&min_height=100&max_height=1000
 Result:
 ```
 {
