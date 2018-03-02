@@ -8,6 +8,7 @@ This wrapper should provide an API to interact with the Metaverse Blockchain to 
 ## Statement of transactions of address(es)
 /statement?address=ADDRESS1&address=ADDRESS2&min_height=100&max_height=1000
 Result:
+```
 {
   "status": {
     "success": 1
@@ -38,3 +39,4 @@ Result:
     "items_per_page": 10
   }
 }
+```
