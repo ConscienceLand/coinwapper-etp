@@ -17,7 +17,6 @@ Result:
       {      "symbol": "ETP",
               "decimals": 8,
               "address": "MGqHvbaH9wzdr6oUDFz4S1HptjoKQcjRve",
-              "type": "transfer",
               "amount": -5000000000000000,
               "hash": "667b80465094b8de303fa3bcc7d030f6a91222eda80b37e60284c1468360bd68",
               "timestamp": 1486831953,
@@ -27,7 +26,6 @@ Result:
               "symbol": "ETP",
               "decimals": 8
               "address": "MgqHvbaH9wzdr6oUDFz4S1HptjoKQcjRve",
-              "type": "transfer",
               "amount": 5000000000000000,
               "hash": "2a845dfa63a7c20d40dbc4b15c3e970ef36332b367500fd89307053cb4c1a2c1",
               "timestamp": 1486796400,
