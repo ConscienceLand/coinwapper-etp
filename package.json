@@ -1,0 +1,27 @@
+{
+  "name": "coinwrapper-etp",
+  "version": "1.0.0",
+  "description": "Blockchain coinwrapper for ETP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConscienceLand/coinwrapper-etp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConscienceLand/coinwrapper-etp/issues"
+  },
+  "homepage": "https://github.com/ConscienceLand/coinwrapper-etp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "requestify": "^0.2.5"
+  }
+}
