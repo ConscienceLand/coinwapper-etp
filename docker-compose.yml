@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+        mvsd:
+                image: cangr/mvsd:0.7.5
+                environment:
+                        - ENVIRONMENT=-t
+        api:
+                build: .
+                environment:
+                  - MVSD_HOST=mvsd
+                ports:
+                        - "8090:8090"
